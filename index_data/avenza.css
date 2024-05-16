@@ -268,7 +268,7 @@ avz-feature-search-highlight is applied to features when they match a search
 call.
 */
 .avz-feature-search-highlight {
-	stroke: #009DFF;
+	stroke: #ff0;
 	stroke-opacity: 0.4;
 }
 
