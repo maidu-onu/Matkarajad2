@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image TileSize="512" Overlap="0" Format="png" xmlns="http://schemas.microsoft.com/deepzoom/2009">
+<Size Width="13560.9" Height="9524.41"/>
+<DisplayRects>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="3965" Y="2776" Width="295" Height="149"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5472" Y="3030" Width="181" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7818" Y="5781" Width="503" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5815" Y="2933" Width="337" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7252" Y="2625" Width="173" Height="149"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9186" Y="2055" Width="494" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="12155" Y="7166" Width="298" Height="149"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="10698" Y="7324" Width="167" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="3777" Y="3763" Width="591" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9333" Y="3178" Width="217" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="2418" Y="5941" Width="386" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7107" Y="6348" Width="283" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9389" Y="2628" Width="162" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="10751" Y="4609" Width="241" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="498" Y="5965" Width="435" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6924" Y="6733" Width="278" Height="149"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8363" Y="3060" Width="343" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="4390" Y="1963" Width="436" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="3313" Y="3296" Width="160" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="10033" Y="6073" Width="420" Height="149"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5723" Y="5980" Width="131" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5072" Y="4087" Width="336" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9625" Y="5317" Width="142" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9266" Y="5747" Width="580" Height="157"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9842" Y="8742" Width="417" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="2024" Y="6314" Width="204" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6906" Y="5658" Width="179" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="3159" Y="5351" Width="694" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5429" Y="1782" Width="249" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5814" Y="6185" Width="380" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8477" Y="7832" Width="503" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7592" Y="6373" Width="213" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9715" Y="4590" Width="142" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="4620" Y="3106" Width="591" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="11827" Y="1921" Width="209" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7559" Y="6466" Width="127" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="11106" Y="1718" Width="134" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="10937" Y="5781" Width="257" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7602" Y="994" Width="247" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6005" Y="6410" Width="180" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5800" Y="5814" Width="481" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6228" Y="1233" Width="181" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5901" Y="4414" Width="495" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9801" Y="7077" Width="265" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="11334" Y="7685" Width="465" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8451" Y="2274" Width="417" Height="149"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8740" Y="3342" Width="131" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="11307" Y="1589" Width="263" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="2710" Y="3453" Width="234" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8463" Y="1207" Width="147" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="3949" Y="4212" Width="395" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8642" Y="3608" Width="344" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="10587" Y="8047" Width="256" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="11755" Y="6767" Width="279" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7571" Y="3293" Width="359" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6788" Y="3028" Width="283" Height="149"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9373" Y="7743" Width="259" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6805" Y="1961" Width="186" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="4849" Y="5785" Width="273" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8997" Y="3046" Width="186" Height="246"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="11144" Y="1487" Width="362" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8631" Y="6433" Width="243" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6139" Y="2038" Width="399" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="4852" Y="5412" Width="419" Height="159"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="4967" Y="4977" Width="528" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8606" Y="5884" Width="226" Height="149"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6865" Y="6248" Width="489" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7798" Y="3111" Width="478" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6529" Y="3395" Width="366" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5829" Y="4093" Width="171" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6728" Y="2433" Width="313" Height="149"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9277" Y="4312" Width="335" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8914" Y="2598" Width="218" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="2985" Y="4118" Width="252" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="10609" Y="7964" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="10318" Y="3948" Width="295" Height="124"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5416" Y="3072" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6177" Y="1322" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9264" Y="3158" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="11060" Y="5881" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5760" Y="6178" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="11720" Y="6867" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7867" Y="1034" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7830" Y="5597" Width="237" Height="125"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9069" Y="3536" Width="448" Height="156"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9982" Y="5485" Width="251" Height="125"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="3892" Y="4203" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7492" Y="6475" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6077" Y="4506" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="4913" Y="5063" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7870" Y="6099" Width="363" Height="135"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9557" Y="2682" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5756" Y="4127" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8720" Y="3058" Width="185" Height="128"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5223" Y="3140" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6412" Y="1708" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="11307" Y="6859" Width="309" Height="189"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="10844" Y="8196" Width="263" Height="124"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="10889" Y="7346" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6086" Y="2075" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="1969" Y="3117" Width="330" Height="127"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="10284" Y="7863" Width="185" Height="134"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7649" Y="2475" Width="229" Height="127"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7519" Y="6397" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8776" Y="7760" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6901" Y="3177" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9960" Y="6104" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="692" Y="5895" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9624" Y="4360" Width="305" Height="130"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8386" Y="2355" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8612" Y="1171" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="4771" Y="5802" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5113" Y="2047" Width="593" Height="126"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="3311" Y="3397" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="1052" Y="7271" Width="210" Height="127"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9829" Y="2691" Width="258" Height="195"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7755" Y="5751" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="1048" Y="5753" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7938" Y="3289" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5108" Y="5575" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="3095" Y="5394" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8936" Y="3102" Width="55" Height="66"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9017" Y="3587" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="4796" Y="5497" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="11902" Y="1861" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="11242" Y="1694" Width="90" Height="91"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9738" Y="7122" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9115" Y="2108" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8447" Y="6054" Width="442" Height="237"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="3891" Y="2830" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8578" Y="5556" Width="292" Height="136"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6728" Y="2600" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="12085" Y="7211" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8845" Y="5933" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8589" Y="3693" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8883" Y="3350" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9961" Y="7824" Width="231" Height="85"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8561" Y="6417" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8944" Y="3191" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7476" Y="3543" Width="238" Height="118"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="11755" Y="6916" Width="395" Height="123"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="2634" Y="3488" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="2919" Y="4108" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6127" Y="2354" Width="444" Height="128"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9813" Y="8640" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="1970" Y="6394" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="10822" Y="1649" Width="208" Height="127"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9773" Y="5344" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6468" Y="1717" Width="638" Height="199"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="10684" Y="4696" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5689" Y="1792" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6470" Y="3406" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8842" Y="2659" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="4856" Y="2097" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="2360" Y="5895" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7070" Y="6669" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="1008" Y="5392" Width="513" Height="257"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6566" Y="2670" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6248" Y="2513" Width="306" Height="219"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5744" Y="5661" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="2425" Y="4143" Width="161" Height="136"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9349" Y="7828" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8278" Y="3179" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5864" Y="6006" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5267" Y="4197" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8408" Y="2745" Width="862" Height="261"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6187" Y="2970" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9381" Y="4403" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9807" Y="3178" Width="300" Height="115"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6840" Y="5698" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7223" Y="6435" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="2484" Y="4977" Width="234" Height="128"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="7447" Y="2645" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6208" Y="6441" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5936" Y="3539" Width="289" Height="129"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="1063" Y="5658" Width="500" Height="127"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9085" Y="5976" Width="724" Height="531"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6809" Y="6304" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="10300" Y="1609" Width="375" Height="124"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="6741" Y="2007" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="9659" Y="4577" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="3712" Y="3729" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8509" Y="3145" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="11283" Y="7814" Width="52" Height="52"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="5065" Y="2257" Width="478" Height="132"/>
+</DisplayRect>
+<DisplayRect MinLevel="6" MaxLevel="14">
+<Rect X="8351" Y="2850" Width="52" Height="52"/>
+</DisplayRect>
+</DisplayRects>
+</Image>
